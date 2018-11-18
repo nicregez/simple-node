@@ -10,7 +10,7 @@ Push and Scale
     $ cf app simple-node
 
 Use
-___
+---
 
 Put the randomly generated route into variable URL for ease of use
 
